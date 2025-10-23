@@ -1,1 +1,121 @@
-ểCONFFIG REBOOST
+com.aim.assist.smart=true
+com.recoil.reduce.level=2
+com.scope.transition.fast=1
+com.auto.fire.edge=true
+com.bullet.trajectory.stable=1
+com.aim.friction=0.7
+com.fire.touch.delay=0.03
+com.headshot.bias=1.0
+com.fire.mode.override=auto
+com.scope.sensitivity.override=0.8 com.ping.override=auto
+com.packet.order.enforce=true
+com.lag.spike.recovery=true
+com.network.priority.mode=game_only
+com.qos.packet.tagging=enabled
+com.retry.handshake.delay=1
+com.tcp.timeout=2000
+com.udp.buffer.size=max
+com.latency.adapt.mode=smart
+com.ping.icon.suppress=true com.aim.stability=medium
+com.aim.following.accuracy=0.7
+com.aim.speed=0.5
+com.aim.smoothing=medium
+com.aim.recoil.control=0.7
+com.aim.lock.target=true
+com.aim.focus.area=neck
+com.headshot.precision=medium
+com.recoil.sensitivity=0.6
+com.aim.friction=0.4
+com.aim.sensitivity=0.4
+ com.wallhack.enabled=false
+com.aimbot.assist.level=0
+com.speed.hack.limit=1.2
+com.invisible.mode=off
+com.no.recoil=off
+com.headshot.auto=off
+com.enemy.highlight=off
+com.map.radar.scan=false
+com.teleport.delay=disabled
+com.debug.overlay=false com.recoil.shake.reduce=true
+com.camera.shake.disable=true
+com.gyro.stabilize.level=3
+com.input.vibration.block=true
+com.frame.jitter.smooth=true
+com.fps.spike.fix=enabled
+com.animation.lag.filter=on
+com.system.vsync.force=true
+com.motion.blend.optimized=true
+com.render.stutter.guard=active
+com.device.vibration.disable=true
+com.touch.feedback.vibrate=false
+com.gyro.bounce.filter=smart
+com.scope.transition.fix=1
+com.swipe.stutter.compensation=1
+com.bullet.fire.shake.nullify=true
+com.recoil.burst.control=smart
+com.cpu.schedule.smooth=on
+com.frame.sync.stabilize=true
+com.ui.jank.reduce=true com.aim.lock.on.head=true
+com.bullet.hit.priority=chest
+com.projectile.spread.control=1
+com.headshot.ratio.bias=1.5
+com.auto.shoot.zone=upper_body
+com.tracer.path.visible=false
+com.hit.reg.delay=0
+com.shot.predict.range=long
+com.target.zone.expand=1
+com.bullet.penetrate.level=2 com.ping.lock=50
+com.packet.loss.fix=true
+com.background.process.kill=true
+com.touch.input.delay=0.01
+com.network.adapt.mode=aggressive
+com.cpu.schedule.foreground=true
+com.ram.cleanup.interval=60
+com.jitter.control=enabled
+com.gyro.delay.reduce=true
+com.ui.render.boost=1 com.performance.mode=extreme
+com.memory.clean.interval=30
+com.cpu.core.bind=game
+com.gpu.clock.lock=max
+com.battery.optimize.gaming=on
+com.background.sync.disable=true
+com.foreground.priority.enable=true
+com.cache.flush.interval=60
+com.frame.render.lock=1
+com.system.load.balance=aggressive com.device.emulation=android11
+com.resolution.override=1280x720
+com.input.driver=raw
+com.os.optimize.layer=true
+com.driver.gfx.mode=low_latency
+com.app.priority.whitelist=gameapp
+com.touch.driver=fastpath
+com.opengl.version=es3.1
+com.gfx.cache.flush=true
+com.debug.mode=off com.audio.footstep.boost=true
+com.surround.emulation=1
+com.mic.priority=low
+com.gunshot.directional.audio=true
+com.voice.chat.delay.reduce=true
+com.eq.mode=clear_enemy
+com.noise.filter.background=true
+com.sfx.volume.scale=1.2
+com.ui.sound.delay=0
+com.audio.render.thread=high com.touch.latency.reduce=true
+com.touch.buffer.size=small
+com.gesture.delay=0
+com.multi.touch.fix=true
+com.finger.tracking.smooth=1
+com.tap.response=instant
+com.swipe.trail.predict=true
+com.screen.glide.mode=enabled
+com.drag.drop.delay=0.05
+com.input.sampling.rate=high com.fps.limit=120
+com.render.scale=0.75
+com.shadows.disable=true
+com.texture.quality=low
+com.brightness.boost=1.2
+com.vsync.disable=true
+com.thermal.throttle=off
+com.gpu.usage.maximize=true
+com.frame.drop.fix=true
+com.screen.refresh.adapt=true
