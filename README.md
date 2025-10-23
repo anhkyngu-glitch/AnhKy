@@ -1,0 +1,2 @@
+# AnhKy
+CONFIG AIMLOCK ⚡️
